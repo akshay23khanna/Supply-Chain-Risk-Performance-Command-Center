@@ -1,0 +1,8 @@
+metric,value,definition
+Total Orders,1000.0,Number of supply-chain transactions
+Total Order Value,25290073.669999998,Revenue/value exposed to supply-chain performance
+Delay Rate,0.514,Share of orders with positive delay days
+Risk Rate,0.514,Share of orders flagged as supply risk
+Average Delay Days,1.943,Average delay across all orders
+Average Supplier Reliability,0.74576,Mean supplier reliability score
+High Risk Orders,445.0,Orders with modeled risk score above 50
